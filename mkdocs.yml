@@ -1,0 +1,10 @@
+site_name: PyPus
+theme: readthedocs
+
+markdown_extensions:
+  - mkdocs-click
+
+nav:
+  - Home: 'index.md'
+  - Examples: 'example.md'
+  - Other Info: 'about.md'
