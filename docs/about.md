@@ -1,4 +1,4 @@
-# The projec on PyPi
+# The project on PyPi
 [PyPi Project](https://pypi.org/project/pypus)
 
 # The official CLI
