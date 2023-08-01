@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pypus"
-version = "1.4.3"
+version = "1.4.4"
 description = "Octopus cli toolkit"
 authors = ["Michael MacKenna <mpmackenna@gmail.com>"]
 license = "MIT"
