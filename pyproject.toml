@@ -2,9 +2,11 @@
 name = "pypus"
 version = "1.4.3"
 description = "Octopus cli toolkit"
-authors = ["Michael MacKenna <mmackenna@unitedfiregroup.com>"]
+authors = ["Michael MacKenna <mpmackenna@gmail.com>"]
 license = "MIT"
 readme = "README.md"
+homepage = "https://mpmackenna.github.io/pypus"
+documentation = "https://mpmackenna.github.io/pypus"
 
 [tool.poetry.dependencies]
 python = "^3.9"
