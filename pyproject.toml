@@ -5,7 +5,7 @@ description = "Octopus cli toolkit"
 authors = ["Michael MacKenna <mpmackenna@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://mpmackenna.github.io/pypus"
+homepage = "https://github.com/mpmackenna/pypus"
 documentation = "https://mpmackenna.github.io/pypus"
 
 [tool.poetry.dependencies]
